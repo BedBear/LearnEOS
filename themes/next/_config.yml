@@ -101,6 +101,9 @@ menu:
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
 
+  #--custom--
+  sites: /sites/ || star
+
 # Enable/Disable menu icons.
 menu_icons:
   enable: true
@@ -672,7 +675,7 @@ motion:
     sidebar: slideUpIn
 
 # Fancybox
-fancybox: true
+fancybox: false
 
 # Progress bar in the top during page loading.
 pace: false
