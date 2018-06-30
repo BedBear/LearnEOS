@@ -1,3 +1,10 @@
 ---
-title: Hello World, Hello EOS
+title: 【EOS入门】注册EOS账户及转账
 ---
+
+### 搭建环境
+
+### 创建钱包并导入私钥
+
+### 创建账户
+
