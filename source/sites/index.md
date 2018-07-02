@@ -1,14 +1,26 @@
 ---
-title: 网址导航(持续更新)
+title: 网址导航
 date: 2018-06-17 12:21:41
 ---
+
+<style>
+table th {
+    width: 30px;
+}
+table th:first-of-type {
+    width: 100px;
+}
+table th:last-of-type {
+    width: 70px;
+}
+</style>
 
 ## 官方网站
 - [eos源码](https://github.com/EOSIO/eos)
 
 ## 区块浏览器
 |站点|账户|公钥|区块|交易|投票进度|超级节点|账户竞拍|RAM|其他|
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| -- | -- | -- | -- | -- | ------------ | -- | -- | -- | -- |
 | [eospark.com](https://eospark.com/) | [账户](https://eospark.com/MainNet/account/starteosiobp) | [公钥](https://eospark.com/MainNet/address/EOS7boot47hMPjKuLGrkvTPi818kkHqMvPWK7483Yfm7PwuJUMca7) | [区块](https://eospark.com/MainNet/block/208329) | [交易](https://eospark.com/MainNet/tx/a7a07d54953d46d4266082b42fbd6df1979027272a0dfc113bb3903bbeeb02f5) | [投票进度](https://eospark.com/MainNet) | [超级节点](https://eospark.com/MainNet) | [账户竞拍](https://eospark.com/MainNet/bidaccount) | [RAM](https://eospark.com/MainNet) | |
 | [scaneos.io](https://scaneos.io/) | [账户](https://scaneos.io/account/starteosiobp) |  | [区块](https://scaneos.io/block/3755698/)| [交易](https://scaneos.io/transaction/f8d514d7eb4b3b89702ca220ddfc978f9973337f373027219fdc546a3b8f9792/) | [投票进度](https://scaneos.io/) | [超级节点](https://scaneos.io/producers/) | [账户竞拍](https://scaneos.io/bidings/) |  | [操作信息](https://scaneos.io/actions) <br> [Token信息](https://scaneos.io/tokens/) |
 | [eosflare.io](https://eosflare.io/) | [账户](https://eosflare.io/account/starteosiobp) |[公钥](https://eosflare.io/key/EOS7boot47hMPjKuLGrkvTPi818kkHqMvPWK7483Yfm7PwuJUMca7)||[交易](https://eosflare.io/tx/56f54f1b14ebcebb89184711ab7f0790a796219ad6851de64e44d372428d6de7)|||[账户竞拍](https://eosflare.io/bidname)||[投票者信息](https://eosflare.io/voters)|
