@@ -32,6 +32,11 @@ table th:last-of-type {
 ## 资源浏览器
 - [eosrp](https://www.eosrp.io/)
 
+## 工具
+### RAM
+- [价格趋势图](https://eos.feexplorer.io/)
+- [价格推算图](https://www.tubiaoxiu.com/p/s/29f32f33b1ab9cd8.html?from=groupmessage&isappinstalled=0#/)
+
 ## 钱包
 - [Scatter](https://get-scatter.com/)
 - [Token Pocket](https://www.mytokenpocket.vip/)
