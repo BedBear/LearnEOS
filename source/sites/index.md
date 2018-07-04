@@ -44,6 +44,10 @@ table th:last-of-type {
 - [Halo Wallet](https://halowallet.io/#/)
 - [imToken V2](https://token.im/) 
 
+## 交易所账户
+|交易所|账户名|
+|--|--|
+|币安| heztanrqgene|
 
 ###### 【参考】
 [【持续更新】玩转EOS，你要的资源全在这里了！](https://m.bihu.com/article/761325)
