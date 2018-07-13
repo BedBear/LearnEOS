@@ -45,10 +45,20 @@ table th:last-of-type {
 - [Halo Wallet](https://halowallet.io/#/)
 - [imToken V2](https://token.im/) 
 
+## EOS博客/文章
+- [EOS开发系列目录 - 松果](https://bihu.com/article/293974)
+
+## 交易所
+- [Chaince](https://chaince.com/)
+
 ## 交易所账户
 |交易所|账户名|
 |--|--|
 |币安| heztanrqgene|
+
+## 测试网络
+- [Jungle Testnet](http://jungle.cryptolions.io/)
+- [EOSTEA](https://party.eosmonitor.io/ )
 
 #### 【参考】
 [【持续更新】玩转EOS，你要的资源全在这里了！](https://m.bihu.com/article/761325)
