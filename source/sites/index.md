@@ -55,6 +55,11 @@ table th:last-of-type {
 |交易所|账户名|
 |--|--|
 |币安| heztanrqgene|
+|火币| huobideposit|
+|zb| zbeosforsend|
+|gate| gateiowallet|
+|Chaince 畅思| chainceout11 chainceoneos|
+
 
 ## 测试网络
 - [Jungle Testnet](http://jungle.cryptolions.io/)
