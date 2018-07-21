@@ -32,11 +32,17 @@ table th:last-of-type {
 ## 资源浏览器
 
 ## 工具
+### 总体资源
+- [全网资源信息](https://www.eosrp.io/)
+
+### RAM
 - [RAM盈亏统计](http://southex.com/)
 - [RAM价格趋势图](https://eos.feexplorer.io/)
 - [RAM价格推算图](https://www.tubiaoxiu.com/p/s/29f32f33b1ab9cd8.html?from=groupmessage&isappinstalled=0#/)
 - [RAM巨鲸榜](https://eosmonitor.io/ram?page=1)
-- [全网资源信息](https://www.eosrp.io/)
+
+### 安全
+- [检测账户及公钥安全](https://peckshield.com/eosrescuer)
 
 ## 钱包
 - [Scatter](https://get-scatter.com/)
