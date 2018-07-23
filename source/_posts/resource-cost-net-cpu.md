@@ -179,37 +179,37 @@ window_size = 24 * 60 * 60 * 1000 / 500
 ```
 cleos transfer 账户A 账户B '0.0001 EOS' ''
 ```
-![image](https://user-images.githubusercontent.com/8636635/43038566-051bd878-8d4e-11e8-8dac-1b4f7d7ce163.png)
+{% asset_img 1-no-memo.png %}
 
 2【转账】不同金额
 ```
 cleos transfer 账户A 账户B '0.1 EOS' ''
 ```
-![image](https://user-images.githubusercontent.com/8636635/43038788-9d812aec-8d52-11e8-8185-5c138839ccda.png)
+{% asset_img 2-diff-balance.png %}
 
 3【转账】带短memo
 ```
 cleos transfer 账户A 账户B '0.0001 EOS' '感谢！'
 ```
-![image](https://user-images.githubusercontent.com/8636635/43038747-dc6a3f1a-8d51-11e8-9236-762ba9a89285.png)
+{% asset_img 3-short-memo.png %}
 
 4【转账】带最长memo
 ```
 cleos transfer 账户A 账户B '0.0001 EOS' '1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111'
 ```
-![image](https://user-images.githubusercontent.com/8636635/43038580-72199d20-8d4e-11e8-9bc4-00747ab10fe9.png)
+{% asset_img 4-long-memo.png %}
 
 5【转账】带中文memo
 ```
 cleos transfer 账户A 账户B '0.0001 EOS' '测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测测'
 ```
-![image](https://user-images.githubusercontent.com/8636635/43038677-706d87b4-8d50-11e8-88da-ffc4573441e3.png)
+{% asset_img 5-cn-memo.png %}
 
 6【抵押】换net和cpu
 ```
 cleos system delegatebw 账户A 账户A "0.01 EOS" "0.01 EOS"
 ```
-![image](https://user-images.githubusercontent.com/8636635/43038799-fd30d078-8d52-11e8-923a-a9a82abb7b02.png)
+{% asset_img 6-stake-net-cpu.png %}
 
 ## 【参考】
 - [EOS零手续费免费?你不知道的EOS收费细节](https://blog.csdn.net/itleaks/article/details/80743836)
