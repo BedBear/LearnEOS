@@ -13,13 +13,8 @@ tags: cpu net
 
 下面表格展示了 **转账** 和 **抵押** 操作平均消耗的资源。**转账时所带memo不同，消耗的资源也不同，而转账金额的多少不影响消耗** 。
 
-|操作方式|命令示意|net消耗(KiB)|cpu消耗(ms)|
-|--|--|--|--|
-|【转账】不带memo|cleos transfer 账户A 账户B '0.0001 EOS' ''|0.124|0.884|
-|【转账】带短memo|cleos transfer 账户A 账户B '0.0001 EOS' '感谢！'|0.133|1.018|
-|【转账】带最长memo|cleos transfer 账户A 账户B '0.0001 EOS' '1111…<256个1>'|0.374|1.306|
-|【转账】带中文memo|cleos transfer 账户A 账户B '0.0001 EOS' '测测测…<85个测>'|0.374|1.046|
-|【抵押】换net和cpu|cleos system delegatebw 账户A 账户A "0.01 EOS" "0.01 EOS" |0.140|2.7671|
+{% asset_img cost-list.png %}
+
 
 > 转账eos所带memo规定不能超过 256 bytes。以utf-8编码的中文字符占 3 bytes，所以在memo中的中文字符不能超过85个。
 
